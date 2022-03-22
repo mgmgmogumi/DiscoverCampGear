@@ -2,4 +2,4 @@
 
 </script>
 
-<div>Create</div>
+<div>特集</div>

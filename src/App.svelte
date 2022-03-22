@@ -17,7 +17,9 @@
 		<Route path="about" component="{About}" />
 		<Route path="/"><Home /></Route>
 	</Router>
-	<Footer />
+	<div class="footer">
+		<Footer/>
+	</div>
 </main>
 
 <style>
@@ -28,12 +30,10 @@
 		margin: 0 auto;
 	}
 
-	/* h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	} */
+	.footer {
+		position: absolute;
+		bottom: 0;
+	}
 
 	@media (min-width: 640px) {
 		main {

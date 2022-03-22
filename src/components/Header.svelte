@@ -4,8 +4,8 @@
 
 <div>
     <Router>
-        <Link to="/">Home</Link>
+        <Link to="/">検索</Link>
+        <Link to="create">特集</Link>
         <Link to="about">About</Link>
-        <Link to="create">Create</Link>  
       </Router>
 </div>

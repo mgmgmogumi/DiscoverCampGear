@@ -2,4 +2,4 @@
 
 </script>
 
-<div>Home</div>
+<div>検索</div>
